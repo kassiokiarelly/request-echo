@@ -1,4 +1,5 @@
 # Request Echo
+[![Build and publish docker image](https://github.com/kassiokiarelly/request-echo/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/kassiokiarelly/request-echo/actions/workflows/docker-publish.yml)
 
 Minimal ASP.NET Core web api used for kubernetes studies containing two endpoints:
 
