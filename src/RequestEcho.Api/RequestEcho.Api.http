@@ -1,6 +1,6 @@
 @RequestEcho.Api_HostAddress = http://localhost:5002
 
-GET {{RequestEcho.Api_HostAddress}}/weatherforecast/
+GET {{RequestEcho.Api_HostAddress}}/echo
 Accept: application/json
 
 ###
